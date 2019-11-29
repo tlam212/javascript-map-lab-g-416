@@ -30,7 +30,7 @@ const zebraStripes = [
 ];
 
 const coloredZebraStripes = zebraStripes.map(stripe => {
-  const isBlack = 
+  const isEven = 
   return Object.assign({}, stripe, {
     width: 0 =! 2 ? 'black'
   })
