@@ -22,6 +22,6 @@ const zebraStripes = [
   { width: 7.31, color: null }
 ];
 
-const sortedRobots = robots.map(bot => function(bots){
-  ob
+const sortedRobots = robots.map(bot => {
+  const isDecepticon = 
 })
